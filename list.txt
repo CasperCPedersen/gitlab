@@ -1,3 +1,5 @@
-ind købes liste 
+ind købes liste - f3 branch
 - milk
 - candy
+- bannans
+- bead
